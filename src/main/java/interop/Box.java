@@ -1,6 +1,9 @@
 
 package interop;
 
+/*
+ * This is a class to demonstrate how instances of user-defined classes move through the JVM languages.
+ */
 public class Box {
 
     private String name;
